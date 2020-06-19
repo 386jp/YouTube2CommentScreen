@@ -9,3 +9,6 @@ I made this script for online open-campus event for Data Science Faculty, Musash
 Use command: `pip install "python-socketio[client]"` to install. Then import using: `import socketio`.
 
 I recommend to run it on Google Colaboratory environment.
+
+## Requirements
+* YouTube V3 API
