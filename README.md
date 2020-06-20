@@ -11,4 +11,4 @@ Use command: `pip install "python-socketio[client]"` to install. Then import usi
 I recommend to run it on Google Colaboratory environment.
 
 ## Requirements
-* YouTube V3 API
+* YouTube Data API V3
